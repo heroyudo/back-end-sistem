@@ -3,7 +3,7 @@ const routes = [
         method: '*',
         path: '/',
         handler: (request, h) => {
-            return 'Halaman tidak dapat diakses dengan method tersebut - update';
+            return 'Halaman tidak dapat diakses dengan method tersebut - update 1';
         },
     },
     {
